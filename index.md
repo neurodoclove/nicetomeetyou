@@ -2,7 +2,7 @@
 layout: home
 title: Home
 landing-title: 'Hi, I'm Tiffany Love, PhD'
-description: Inside and Out
+description: 'Inside & Out'
 image: null
 author: null
 show_tile: false
