@@ -1,7 +1,7 @@
 ---
 layout: home
 title: "Hi, I'm Tiffany Love, PhD"
-description: null
+description: "Inside and Out"
 image: null
 author: null
 show_tile: false
