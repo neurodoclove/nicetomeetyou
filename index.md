@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: "Hi, I'm Tiffany Love, PhD"
+landing-title: "Hi, I'm Tiffany Love"
 description: "Looking Inside and Out"
 image: null
 author: null
