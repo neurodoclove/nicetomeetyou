@@ -13,7 +13,7 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h2>Sed amet aliquam</h2>
+			<h2>Background</h2>
 		</header>
 		<p>Dr. Love is a neuroscientist who has spent her career exploring mechanisms that have gone awary, in the brain and in the ways science reaches those who need it most. In the laboratory, she explores the mechanisms that confer risk to develop psychiatric disorders.  In the field, she focuses on finding ways to translate scientific discovery into clinical practice.</p>
 			
