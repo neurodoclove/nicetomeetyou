@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Looking Inside
+title: Inside
 image: assets/images/pic01.jpg
 nav-menu: true
 ---
