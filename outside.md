@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Outside
-description: Of all the paths you take, make sure a few of them are dirt
+description: Route Mapping
 image: assets/images/pic11.jpg
 nav-menu: true
 ---
