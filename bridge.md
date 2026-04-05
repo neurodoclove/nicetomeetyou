@@ -1,7 +1,7 @@
 ---
 title: Bridge
 layout: landing
-description: 'Curriculum Vitae'
+description: Path Finding
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
