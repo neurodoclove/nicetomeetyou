@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Inside
-description: Neuroscience Research
+description: Brain Mapping
 image: assets/images/pic01.jpg
 nav-menu: true
 ---
