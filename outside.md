@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Outside
-description: Lorem ipsum dolor est
+description: Of all the paths you take in life, make sure a few of them are dirt.
 image: assets/images/pic11.jpg
 nav-menu: true
 ---
