@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Inside
+description: Neuroscience Research
 image: assets/images/pic01.jpg
 nav-menu: true
 ---
