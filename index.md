@@ -7,5 +7,3 @@ image: null
 author: null
 show_tile: false
 ---
-
-Does this do things.
